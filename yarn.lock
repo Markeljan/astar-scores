@@ -1172,10 +1172,10 @@
     magic-string "^0.26.7"
     react-refresh "^0.14.0"
 
-"@wagmi/core@0.7.0":
-  version "0.7.0"
-  resolved "https://registry.yarnpkg.com/@wagmi/core/-/core-0.7.0.tgz#ee23f025b1a6fc09becff3932d6650bc6abb59f0"
-  integrity sha512-AgLspVnA1UauzP5I5ijhGxtKY0hsQBV/SVptf/Nu2ZdyhY6eR3BalIDWY5cl4coXBtRyMobVqOOYSL8vlTEfVw==
+"@wagmi/core@0.7.1":
+  version "0.7.1"
+  resolved "https://registry.yarnpkg.com/@wagmi/core/-/core-0.7.1.tgz#4f516e51180e75c8f5d05a1c5a9d6a8fbd9fd8fe"
+  integrity sha512-9GBlpbntXchJLyWhZMJTFu0WB4qG0XbtcPJQSh/6v5P5hYZ2yvYltfOl+DIiyjCHuOpqr7MoP2Hv5diqQoN6fQ==
   dependencies:
     abitype "^0.1.7"
     eventemitter3 "^4.0.7"
@@ -3462,15 +3462,15 @@ vite@^3.2.3:
     fsevents "~2.3.2"
 
 wagmi@^0.8.0:
-  version "0.8.0"
-  resolved "https://registry.yarnpkg.com/wagmi/-/wagmi-0.8.0.tgz#002fc180af2bd202c8455909943afb909832c89c"
-  integrity sha512-ecNZpQ3qvx0wBQV8xQoMuD2t2q96eCnuiOzRaLqHgDfgxKYVLqeS4TCEK38ICb0kn7lnaXDxQI3OuS5QQN7eGg==
+  version "0.8.1"
+  resolved "https://registry.yarnpkg.com/wagmi/-/wagmi-0.8.1.tgz#7d6d78c13a5dc6cc4d782aed216c623d8e0e0f15"
+  integrity sha512-jt9JWhtKDZEGfXGwgYKU6JmfuPhKzNlJMcYgoyMTYstBPzresj+RHvbhu5Lrcro7XfUYZ6Yr8TF5KQhg+0uR2g==
   dependencies:
     "@coinbase/wallet-sdk" "^3.5.3"
     "@tanstack/query-sync-storage-persister" "^4.14.5"
     "@tanstack/react-query" "^4.14.5"
     "@tanstack/react-query-persist-client" "^4.14.5"
-    "@wagmi/core" "0.7.0"
+    "@wagmi/core" "0.7.1"
     "@walletconnect/ethereum-provider" "^1.8.0"
     abitype "^0.1.7"
     use-sync-external-store "^1.2.0"
