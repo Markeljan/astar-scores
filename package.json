@@ -1,6 +1,6 @@
 {
-  "name": "react-mui-rainbowkit",
-  "private": true,
+  "name": "astar-scores",
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
